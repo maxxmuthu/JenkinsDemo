@@ -11,6 +11,8 @@ public class JenkinsTest extends BaseClass {
 	public void login() throws IllegalArgumentException, InterruptedException { 
 	    
 		
+		   System.out.println("Launching the browser");     
+		
 	       driver.findElement(By.linkText("Log in")).click(); 
 	           
 	       driver.findElement(By.name("email")).sendKeys("koushik350@gmail.com");

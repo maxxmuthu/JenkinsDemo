@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-04-16T23:46:17 IST" name="Suite" finished-at="2023-04-16T23:46:27 IST" duration-ms="9267">
+  <suite started-at="2023-04-26T06:23:49 IST" name="Default suite" finished-at="2023-04-26T06:24:00 IST" duration-ms="10574">
     <groups>
     </groups>
-    <test started-at="2023-04-16T23:46:17 IST" name="Test" finished-at="2023-04-16T23:46:27 IST" duration-ms="9267">
+    <test started-at="2023-04-26T06:23:49 IST" name="Default test" finished-at="2023-04-26T06:24:00 IST" duration-ms="10574">
       <class name="com.samplejenkins.JenkinsTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.samplejenkins.JenkinsTest@71238fc2]" started-at="2023-04-16T23:46:17 IST" name="setup" finished-at="2023-04-16T23:46:21 IST" duration-ms="3857" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.samplejenkins.JenkinsTest@bd4dc25]" started-at="2023-04-26T06:23:49 IST" name="setup" finished-at="2023-04-26T06:23:54 IST" duration-ms="5202" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="login()[pri:1, instance:com.samplejenkins.JenkinsTest@71238fc2]" started-at="2023-04-16T23:46:21 IST" name="login" finished-at="2023-04-16T23:46:27 IST" duration-ms="5301" status="PASS">
+        <test-method signature="login()[pri:1, instance:com.samplejenkins.JenkinsTest@bd4dc25]" started-at="2023-04-26T06:23:54 IST" name="login" finished-at="2023-04-26T06:24:00 IST" duration-ms="5254" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.samplejenkins.JenkinsTest@71238fc2]" started-at="2023-04-16T23:46:27 IST" name="tearDown" finished-at="2023-04-16T23:46:27 IST" duration-ms="84" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.samplejenkins.JenkinsTest@bd4dc25]" started-at="2023-04-26T06:24:00 IST" name="tearDown" finished-at="2023-04-26T06:24:00 IST" duration-ms="93" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.samplejenkins.JenkinsTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
